@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my art history assignment.
+- 🔭 I’m currently working on test.
 - 🌱 I’m currently learning test..
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Linkedin: Patty Tancharoen
+- 🤔 I’m looking for help with test
+- 💬 Ask me about test
+- 📫 How to reach me: test
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:
 -->
